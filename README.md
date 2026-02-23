@@ -1,45 +1,74 @@
-<h1 align="center">Hi 👋, I'm Héctor Aristimuño</h1>
-<h3 align="center">A passionate frontend and backend developer from Venezuela 🇻🇪</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Héctor Aristimuño</h1>
+  <h3>🚀 Fullstack Developer from Venezuela 🇻🇪</h3>
+  <p><i>"Para mi no existen problemas, solo retos!"</i></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v3ct0r" alt="v3ct0r" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=v3ct0r&color=blue&style=flat-square" alt="v3ct0r" />
+</div>
 
-- 📫 How to reach me **soullade@gmail.com**
+---
 
-- ⚡ Sentence **Para mi no existen problemas, solo retos! - For me there are no problems, only challenges!**
+### ⚡ Sobre mí
 
+- 📧 **Contacto:** [soullade@gmail.com](mailto:soullade@gmail.com)
+- 🛠️ **Enfoque:** Especializado en crear soluciones robustas tanto en Frontend como en Backend.
+- 👨‍💻 **Filosofía:** Transformo desafíos complejos en código eficiente y escalable.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Frontend & Design**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="100" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="100" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxtjs" width="100" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="100" height="100"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" width="100" height="100"/></p> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="100" height="100"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="100"/> 
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="100" height="100"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="100" height="100"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ct0r&layout=compact" alt="v3ct0r" /></p>
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v3ct0r&show_icons=true" alt="v3ct0r" /></p>
+#### **DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-<a href="https://codepen.io/v3ct0r" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codepen/codepen-ar21.svg" alt="v3ct0r" height="100" width="100" /></a>
-<a href="https://twitter.com/v3xt0r" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/x/x-ar21.svg" alt="v3xt0r" height="100" width="100" /></a>
-<a href="https://linkedin.com/in/aristor" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="aristor" height="100" width="100" /></a>
-<a href="https://stackoverflow.com/users/5754919" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="5754919" height="100" width="100" /></a>
-<a href="https://codesandbox.com/v3ct0r" target="blank"><img align="center" src="https://www.svgrepo.com/download/305888/codesandbox.svg" alt="v3ct0r" height="100" width="100" /></a>
-<a href="https://fb.com/v3ct0r" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt="v3ct0r" height="100" width="100" /></a>
-<a href="https://instagram.com/soullade" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="soullade" height="100" width="30" /></a>
-<a href="https://dribbble.com/v3ct0r" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-ar21.svg" alt="v3ct0r" height="100" width="100" /></a>
-<a href="https://www.behance.net/v3ct0r" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-ar21.svg" alt="v3ct0r" height="100" width="100" /></a>
-<a href="https://medium.com/@soullade" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" alt="@soullade" height="100" width="100" /></a>
-<a href="https://www.youtube.com/c/hectoraristimuño" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="hectoraristimuño" height="100" width="100" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ct0r&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=v3ct0r&show_icons=true&theme=vision-friendly-dark" />
 </p>
+
+---
+
+### 🌐 Conecta conmigo
+<p align="center">
+  <a href="https://linkedin.com/in/aristor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/v3xt0r"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@soullade"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/hectoraristimuño"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://dribbble.com/v3ct0r"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v3ct0r&theme=vision-friendly-dark" alt="v3ct0r streak" />
+</div>
