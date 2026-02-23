@@ -50,11 +50,6 @@ A continuación, algunos de los proyectos que mejor representan mi experiencia:
 ---
 
 ### 📊 Estadísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ct0r&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=v3ct0r&show_icons=true&theme=vision-friendly-dark" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=v3ct0r&theme=vision-friendly-dark" alt="v3ct0r streak" />
 </div>
