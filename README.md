@@ -8,28 +8,27 @@
 - ⚡ Sentence **Para mi no existen problemas, solo retos! - For me there are no problems, only challenges!**
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="80" height="80"/> 
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40"/> 
-  <img src="" alt="mariadb" width="40" height="40"/> 
-  <img src="" alt="mongodb" width="40" height="40"/> 
-  <img src="" alt="mysql" width="40" height="40"/> 
-  <img src="" alt="nextjs" width="40" height="40"/> 
-  <img src="" alt="nodejs" width="40" height="40"/> 
-  <img src="" alt="nuxtjs" width="40" height="40"/> 
-  <img src="" alt="postgresql" width="40" height="40"/> 
-  <img src="" alt="pug" width="40" height="40"/> 
-  <img src="" alt="python" width="40" height="40"/> 
-  <img src="" alt="react" width="40" height="40"/> 
-  <img src="" alt="tailwind" width="40" height="40"/> 
-  <img src="" alt="typescript" width="40" height="40"/> 
-  <img src="" alt="vuejs" width="40" height="40"/></p>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" alt="nextjs" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxtjs" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" width="100" height="100"/> 
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" width="100" height="100"/></p>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="100" height="100"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ct0r&layout=compact" alt="v3ct0r" /></p>
 
